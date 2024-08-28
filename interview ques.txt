@@ -1,0 +1,16 @@
+https methods -
+diff b/w put and post
+Which HTTP methods are safe?
+Which HTTP methods are idempotent?-https://blog.postman.com/what-are-http-methods/
+what are the http status code-https://profitserver.net/knowledge-base/codes_http_error/?gad_source=1&gclid=CjwKCAjw5qC2BhB8EiwAvqa41vFO6Ve214t8OgqGJ_9UVubm5xD16-apaaorK6EDwtkU9Iw3uKFSSxoCNHgQAvD_BwE
+
+Variables in postman'
+global
+collection'
+environment
+local
+query string
+path variable
+header
+
+diff b/w path variable aND QUERY variable
